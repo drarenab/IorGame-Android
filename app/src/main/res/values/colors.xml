@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="event_color_01">#59dbe0</color>
+
+    <color name="event_color_02">#f57f68</color>
+
+    <color name="event_color_03">#768fb5</color>
+
+    <color name="event_color_04">#f8b552</color>
+
+    <color name="toolbar">#efefef</color>
+
+    <color name="toolbar_text">#8f000000</color>
+
+    <color name="accent">#2789e4</color>
+
+    <color name="freeChreno">#E6E2AF</color>
+
+    <color name="ownReserved">#4d4c4c</color>
+
+    <color name="reservedChreno">#0f8c26</color>
+    <color name="primary_material_dark">#7383eb</color>
+    <color name="primary_dark_material_dark">#954848</color>
+    <color name="backround_iorgame">#2C3E50</color>
+    <color name="background_bord">#FFCC33</color>
+</resources>
